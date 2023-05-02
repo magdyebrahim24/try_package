@@ -1,8 +1,7 @@
 name: try_package
 description: A new Flutter package project.
 version: 0.0.1
-author: MeGOo <migoamasha27@gmail.com>
-homepage: 
+homepage: https://github.com/magdyebrahim24/try_package
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
